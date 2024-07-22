@@ -35,24 +35,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Yes my G what's up* 😎
+*𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝒉𝒆𝒓𝒆.
 
 
 *Any way just follow the following channels*
 
 
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
 *Youtube*
-> https://www.youtube.com/@ibrahimaitech
+> https://www.youtube.com/@wrmacomic
 
 *For more info*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/BETINGRICH
   `;
     
 let menuMsg = `
-> ©Ibrahim Adams 
+> ©𝑴𝒂𝒓𝒊𝒔𝒆𝒍 
 `;
 
    var lien = mybotpic();
