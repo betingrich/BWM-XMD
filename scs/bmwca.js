@@ -2,6 +2,7 @@ const { adams } = require("../Ibrahim/adams");
 const canvacord = require("canvacord");
 const {uploadImageToImgur} = require("../Ibrahim/imgur")
 
+
 // Generic function to create a canvacord order
 function createCanvacordCommand(commandName, canvacordFunction) {
   adams({

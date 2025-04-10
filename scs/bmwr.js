@@ -30,6 +30,7 @@ adams({
     }
   });
 });
+
 adams({
   'nomCom': 'fact',
   'reaction': '👌',

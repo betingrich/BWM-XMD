@@ -26,6 +26,8 @@ async (dest, zk, commandeOptions) => {
     const gifUrl = gif.data.results[i].media_formats.gif.url;
 
     
+
+
    
 
     // Assurez-vous de remplacer les valeurs manquantes dans la création du sticker
